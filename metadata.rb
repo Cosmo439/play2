@@ -1,6 +1,6 @@
 maintainer       "Andrea Minetti"
 maintainer_email "andrea.minetti@wavein.ch"
-name             "Play2"
+name             "play2"
 license          "Apache 2.0"
 description      "Installs Play2!"
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
